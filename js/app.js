@@ -3,9 +3,9 @@
 // ============================================================
 mapboxgl.accessToken = 'pk.eyJ1Ijoic3BpZXJyZTE0IiwiYSI6ImNtdHg1MXFyNjAxanUyd3B0Zmppd3pldjMifQ.N_SDvISpQJo1gDuuOetnmQ';
 
-const FULL_SERVICE_FILE = 'data/Jobs_Full_Service.min.geojson';
-const LIMITED_FARE_FILE = 'data/Jobs_Limited_Fare.min.geojson';
-const COLOR_SCHEME_KEY = 'jobs';
+const FULL_SERVICE_FILE = 'data/Land_Area_Full_Service.min.geojson';
+const LIMITED_FARE_FILE = 'data/Land_Area_Limited_Fare.min.geojson';
+const COLOR_SCHEME_KEY = 'land';
 
 // The 20 percentile bins, low to high
 const CATEGORY_ORDER = [
